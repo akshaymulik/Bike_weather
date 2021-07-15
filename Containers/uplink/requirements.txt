@@ -1,0 +1,4 @@
+aiohttp == 3.7.4.post0
+google-cloud-pubsub
+asyncio
+requests
