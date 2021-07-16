@@ -1,0 +1,6 @@
+asyncio
+requests
+google-cloud-pubsub
+aiohttp >= 3.7.4.post0
+google_cloud_storage
+pandas
